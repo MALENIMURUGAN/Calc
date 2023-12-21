@@ -127,7 +127,6 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 ![Alt text](cal1.png)
-
 ![Alt text](cal2.png)
 
 ## RESULT:
